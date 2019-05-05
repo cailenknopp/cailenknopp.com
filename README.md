@@ -1,2 +1,2 @@
 # cailenknopp.com
-The source for cailenknopp.com, my personal website.
+The source for the orginal cailenknopp.com release.
